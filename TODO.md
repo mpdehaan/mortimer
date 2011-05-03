@@ -9,6 +9,7 @@ TODO
 * Add some directory recursion that automatically finds things and builds an index automatically
   (index.md first, then index.html via the main codepath)
 * Add some minimal dynamic widget to each page that allows page selection or includes the tree.
+* Make it an actually library with a seperate 'bin', even though it will be super small.
 
 Contributors!  Do stuff and earn open source points!
 
