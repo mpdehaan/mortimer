@@ -58,5 +58,5 @@ Mortimer is MIT licensed software.  You can do what you want with it.
 Contributors
 ============
 
-Michael DeHaan, <michael.dehaan AT gmail>
+Michael DeHaan, michael.dehaan AT gmail DOT com
 
