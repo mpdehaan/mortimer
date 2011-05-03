@@ -21,24 +21,24 @@ Mortimer was a famous Marker used by Bill Cosby.  Bill Cosby is a pop culture ic
 Requirements
 ============
 
-# need ruby
-gem install maruku
+    # need ruby
+    gem install maruku
 
-# create a lot of markdown files (.md) in a directory, call it 'foo'
-# create a header.snippet file in the 'foo' directory
-# create a footer.snippet file in the 'foo' directory
+    # create a lot of markdown files (.md) in a directory, call it 'foo'
+    # create a header.snippet file in the 'foo' directory
+    # create a footer.snippet file in the 'foo' directory
 
 Demo
 ====
 
-# see examples directory files to see what little is in there
+    # see examples directory files to see what little is in there
 
-ruby ./lib/mortimer.rb --indir examples --outdir output
+    ruby ./lib/mortimer.rb --indir examples --outdir output
 
-# now look in the output directory
+    # now look in the output directory
 
-firefox examples/foo.html
-firefox examples/bar.html
+    firefox output/foo.html
+    firefox output/bar.html
 
 Notes
 =====
